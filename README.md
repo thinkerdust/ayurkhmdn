@@ -1,0 +1,2 @@
+# ayurkhmdn
+web portofolio
