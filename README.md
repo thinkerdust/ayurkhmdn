@@ -1,2 +1,1 @@
-# ayurkhmdn
 web portofolio
