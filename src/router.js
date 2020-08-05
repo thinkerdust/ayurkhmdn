@@ -7,11 +7,10 @@ Vue.use(VueRouter);
 
 const router = new VueRouter({
     mode: 'history',
-    base: process.env.VUE_APP_MODE === 'production' ? '/ayurkhmdn/' : '/',
     routes: [
                 {
                     path: '/',
-                    name: 'home',
+                    name: 'Index',
                     component: Home                     
                 }
             ]
