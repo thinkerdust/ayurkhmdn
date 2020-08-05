@@ -46,7 +46,22 @@ img {
     margin: 0 5px;
 }
 
-/* about */
+/* Home */
+.bg-image {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background-image: url('../bg-image.png');
+}
+
+.intro {
+  height: 100vh;
+  position: relative;
+  color: #fff;
+}
+
+/* About */
 #About .content ul {
     list-style: none;
     padding: 0;
