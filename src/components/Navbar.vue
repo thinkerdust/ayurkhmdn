@@ -9,7 +9,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#Head">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#Home">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#About">About</a>
@@ -30,20 +30,16 @@
                 
             </div>
         </nav>
-        <div id="Head">
-        <div class="jumbotron jumbotron-fluid">
+        <div id="Home" class="intro bg-image">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8">
                         <h1 class="display-4">Hi, I'm Ayu R</h1>
                         <p class="lead">I'm a Junior Software Engineer. Welcome to my personal resume and portfolio website, hope you like it.</p>
+                        <p>I'm <span id="typed"></span></p>
                     </div>
-                    <div class="col-sm-4">
-                        <img src="../assets/ayu.jpg" class="img-fluid rounded-circle" alt="img profile">
-                    </div>
-                </div>
+                </div>    
             </div>
-        </div>
         </div>
     </header>
 </template>

@@ -9,6 +9,7 @@
 import 'regenerator-runtime'
 import Navbar from './components/Navbar.vue'
 import Footer from './components/Footer.vue'
+import '../src/assets/js/index.js'
 
 export default {
   name: 'App',
