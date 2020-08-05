@@ -52,7 +52,7 @@ img {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
-  background-image: url('../bg-image.png');
+  background-image: url('../bg-img.png');
 }
 
 .intro {
