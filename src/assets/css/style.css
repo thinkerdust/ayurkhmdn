@@ -3,7 +3,7 @@
 body {
     font-family: 'Quicksand', sans-serif;
     margin: 0;
-    padding: 0;
+    padding-top: 50px;
 }
 
 * {
@@ -12,6 +12,10 @@ body {
 
 img {
     width: 100%;
+}
+
+.card:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
 /* Section Generals */
@@ -52,19 +56,33 @@ img {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
-  background-image: url('../bg-img.png');
+  background-image: url('../wave.svg');
 }
 
 .intro {
   height: 100vh;
   position: relative;
   color: #fff;
+  padding: 80px 0px;
+}
+
+.head-title {
+  padding: 3rem;
+}
+
+#typed {
+  color: #3c1980;
 }
 
 /* About */
 #About .content ul {
     list-style: none;
     padding: 0;
+}
+
+#About .content ul li {
+  padding-bottom: 12px;
+  font-size: 18px;
 }
 
 #About .content ul i {
@@ -297,3 +315,52 @@ img {
     font-size: 14px;
     text-align: center;
   }
+
+/* Back to top button */
+.back-to-top {
+  position: fixed;
+  display: none;
+  background: #34b7a7;
+  color: #fff;
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  line-height: 1;
+  font-size: 16px;
+  border-radius: 50%;
+  right: 15px;
+  bottom: 15px;
+  transition: background 0.5s;
+  z-index: 11;
+}
+
+.back-to-top i {
+  padding-top: 12px;
+  color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+
+  .intro {
+    padding: 40px 0px;
+  }
+
+  .head-title {
+    padding: 0;
+    text-align: center;
+  }
+
+  .head-title h1 {
+    font-size: 45px;
+    padding-bottom: 10px;
+  }
+
+  .head-title h3 {
+    font-size: 25px;
+    padding-bottom: 15px;
+  }
+
+  .back-to-top {
+    bottom: 15px;
+  }
+}
