@@ -7,29 +7,31 @@
                         <div class="shadow p-3 mb-5 bg-white rounded">
                             <div class="section-title">
                                 <h1>About Me</h1>
-                                <p>Saya merupakan mahasiswa aktif di Universitas Dian Nuswantoro Semarang, dengan mengambil jurusan Teknik Informatika kelas sore. </p>
+                                <p><em>Halo!</em> perkenalkan nama saya <strong>Ayu Rakhmadani.</strong> Saya merupakan mahasiswa aktif di Universitas Dian Nuswantoro Semarang, dengan mengambil program studi S1 Teknik Informatika kelas sore. Seseorang yang memiliki kemauan yang tinggi untuk belajar hal baru dan ketertarikan dalam dunia teknologi khususnya <em>coding</em>.</p>
                             </div>
                             
                             <div class="row">
                                 <div class="col-md-3">
-                                    <img src="../assets/ayu.jpg" alt="Gambar Profile" class="img-fluid">
+                                    <img src="../assets/ayu-pp.png" alt="Gambar Profile" class="img-fluid rounded">
                                 </div>
                                 <div class="col-md-9 content">
-                                    <h2>Junior Software Engineer</h2>
+                                    <h2><strong>Junior Software Engineer</strong></h2>
                                     <div class="row">
                                         <div class="col-md-6">
                                             <ul>
                                                 <li><i class="fa fa-angle-right"></i> <strong>Birthday:</strong> 16 Dec 1998</li>
-                                                <li><i class="fa fa-angle-right"></i> <strong>Website:</strong> www.github.io/ayurkhmdn</li>
+                                                <li><i class="fa fa-angle-right"></i> <strong>Phone:</strong> 0858 9048 xxxx</li>
+                                                <li><i class="fa fa-angle-right"></i> <strong>Email:</strong> ayurakhma1@gmail.com</li>
                                                 <li><i class="fa fa-angle-right"></i> <strong>City:</strong> Semarang, Indonesia</li>
-                                                </ul>
+                                            </ul>
                                         </div>
                                         <div class="col-md-6">
                                             <ul>
                                                 <li><i class="fa fa-angle-right"></i> <strong>Degree:</strong> High School</li>
-                                                <li><i class="fa fa-angle-right"></i> <strong>Phone:</strong> 0858 9048 xxxx</li>
-                                                <li><i class="fa fa-angle-right"></i> <strong>Email:</strong> ayurakhma1@gmail.com</li>
-                                                </ul>
+                                                <li><i class="fa fa-angle-right"></i> <strong>Github:</strong> <a target="_blank" href="https://github.com/thinkerdust">My Github Account</a></li>
+                                                <li><i class="fa fa-angle-right"></i> <strong>Linkedin:</strong> <a target="_blank" href="https://www.linkedin.com/in/ayu-rakhmadani-257887179/">My Linkedin Account</a></li>
+                                                <li><i class="fa fa-angle-right"></i> <strong>Freelance:</strong> Available</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -46,7 +48,6 @@
                         <div class="shadow p-3 mb-5 bg-white rounded">
                             <div class="section-title">
                                 <h1>Resume</h1>
-                                
                             </div>
                             
                             <div class="row">
@@ -67,8 +68,9 @@
                                     <h2>Work Experience</h2>
                                     <div class="resume-item">
                                         <h3>CV Karya Hidup Sentosa</h3>
-                                        <h4>2017 - 2018</h4>
+                                        <h4>Mei 2017 - Mei 2018</h4>
                                         <p><em>Internship Programmer at ICT Division</em></p>
+                                        <p>Learn build and develop web based application :</p>
                                         <ul>
                                             <li><i class="fa fa-desktop"></i> Web Aplication Waste Management</li>
                                             <li><i class="fa fa-desktop"></i> Web Aplication E-Filling</li>
@@ -87,6 +89,66 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="Certificate">
+            <div class="container-fluid">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-12">
+                        <div class="shadow p-3 mb-5 bg-white rounded">
+                            <div class="section-title">
+                                <h1>Certificate</h1>
+                            </div>
+
+                            <div class="row row-cols-md-4">
+                                <div class="col-md mb-4">
+                                    <div class="card" data-toggle="modal" data-target="#exampleModal">
+                                    <a href="http://localhost:8080/img/sertifikat_web.e4d0832f.jpg" data-toggle="lightbox">
+                                    <img src="../assets/sertifikat_web.jpg" class="card-img-top" alt="Sertifikat" >
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Web Dasar - Dicoding Academy</h5>
+                                        <p class="card-text">Dicoding Sertifikat 2020</p>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="col-md mb-4">
+                                    <div class="card" data-toggle="modal" data-target="#exampleModal">
+                                    <a href="http://localhost:8080/img/sertifikat_fo.c40d8203.jpg" data-toggle="lightbox">     
+                                    <img src="../assets/sertifikat_fo.jpg" class="card-img-top" alt="Sertifikat">
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Fundamental Front-End - Dicoding Academy</h5>
+                                        <p class="card-text">Dicoding Sertifikat 2020</p>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="col-md mb-4">
+                                    <div class="card" data-toggle="modal" data-target="#exampleModal">
+                                    <a href="http://localhost:8080/img/sertifikat_python.c7e4c64a.jpg" data-toggle="lightbox">
+                                    <img src="../assets/sertifikat_python.jpg" class="card-img-top" alt="Sertifikat">
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Python - Dicoding Academy</h5>
+                                        <p class="card-text">Dicoding Sertifikat 2020</p>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="col-md mb-4">
+                                    <div class="card" data-toggle="modal" data-target="#exampleModal">
+                                    <a href="http://localhost:8080/img/sertifikat_ml.c7eeef9f.jpg" data-toggle="lightbox">
+                                    <img src="../assets/sertifikat_ml.jpg" class="card-img-top" alt="Sertifikat">
+                                    </a> 
+                                    <div class="card-body">
+                                        <h5 class="card-title">Machine Learning - Dicoding Academy</h5>
+                                        <p class="card-text">Dicoding Sertifikat 2020</p>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>                      
                         </div>
                     </div>
                 </div>
@@ -168,9 +230,9 @@
                                     </div>
 
                                     <div class="progress">
-                                        <span class="skill">GIT <i class="val">85%</i></span>
+                                        <span class="skill">GIT <i class="val">70%</i></span>
                                         <div class="progress-bar-wrap">
-                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div>
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -189,40 +251,22 @@
                                 <h1>Portfolio</h1>
                             </div>
 
-                            <div class="row row-cols-md-4">
+                            <div class="row row-cols-md-2">
                                 <div class="col-md mb-4">
                                     <div class="card">
-                                    <img src="../assets/sertifikat_web.jpg" class="card-img-top" alt="Sertifikat">
+                                    <img src="../assets/covid.png" class="card-img-top" alt="Sertifikat">
                                     <div class="card-body">
-                                        <h5 class="card-title">Web Dasar - Dicoding Academy</h5>
-                                        <p class="card-text">Dicoding Sertifikat 2020</p>
+                                        <h5 class="card-title">Aplikasi Web Monitoring Covid-19 Indonesia</h5>
+                                        <p class="card-text">Aplikasi web untuk memantau data kasus positif, sembuh dan meninggal di Indonesia dengan menggunakan API. Dibuat dengan JavaScript, Bootstrap, Webpack. </p>
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-md mb-4">
                                     <div class="card">
-                                    <img src="../assets/sertifikat_fo.jpg" class="card-img-top" alt="Sertifikat">
+                                    <img src="../assets/finance.png" class="card-img-top" alt="Sertifikat">
                                     <div class="card-body">
-                                        <h5 class="card-title">Fundamental Front-End - Dicoding Academy</h5>
-                                        <p class="card-text">Dicoding Sertifikat 2020</p>
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="col-md mb-4">
-                                    <div class="card">
-                                    <img src="../assets/sertifikat_python.jpg" class="card-img-top" alt="Sertifikat">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Python - Dicoding Academy</h5>
-                                        <p class="card-text">Dicoding Sertifikat 2020</p>
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="col-md mb-4">
-                                    <div class="card">
-                                    <img src="../assets/sertifikat_ml.jpg" class="card-img-top" alt="Sertifikat">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Machine Learning - Dicoding Academy</h5>
-                                        <p class="card-text">Dicoding Sertifikat 2020</p>
+                                        <h5 class="card-title">Aplikasi Web Sale and Finance</h5>
+                                        <p class="card-text">Aplikasi web untuk mengelola data penjualan dan keuangan pada sebuah perusahaan swasta yang bergerak dibidang ready mix. Dibuat dengan Laravel, PHP, Jquery, Material Dashboard, Bootstrap. </p>
                                     </div>
                                     </div>
                                 </div>
@@ -267,7 +311,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                                    <form action="#" role="form" class="php-email-form">
                                         <div class="form-row">
                                             <div class="col-md-6 form-group">
                                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -300,5 +344,21 @@
                 </div>
             </div>
         </div>
+       
+        <!-- Modal -->
+        <!-- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                
+                    <div class="modal-body">
+                    <img src="../assets/sertifikat_web.jpg" alt="Sertifikat">
+                    <img src="../assets/sertifikat_fo.jpg" alt="Sertifikat">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div> -->
     </div>
 </template>
