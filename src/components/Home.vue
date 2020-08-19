@@ -106,7 +106,7 @@
                             <div class="row row-cols-md-4">
                                 <div class="col-md mb-4">
                                     <div class="card" data-toggle="modal" data-target="#exampleModal">
-                                    <a href="http://localhost:8080/img/sertifikat_web.e4d0832f.jpg" data-toggle="lightbox">
+                                    <a href="https://thinkerdust.github.io/ayurkhmdn/img/sertifikat_web.e4d0832f.jpg" data-toggle="lightbox">
                                     <img src="../assets/sertifikat_web.jpg" class="card-img-top" alt="Sertifikat" >
                                     </a>
                                     <div class="card-body">
@@ -117,7 +117,7 @@
                                 </div>
                                 <div class="col-md mb-4">
                                     <div class="card" data-toggle="modal" data-target="#exampleModal">
-                                    <a href="http://localhost:8080/img/sertifikat_fo.c40d8203.jpg" data-toggle="lightbox">     
+                                    <a href="https://thinkerdust.github.io/ayurkhmdn/img/sertifikat_fo.c40d8203.jpg" data-toggle="lightbox">     
                                     <img src="../assets/sertifikat_fo.jpg" class="card-img-top" alt="Sertifikat">
                                     </a>
                                     <div class="card-body">
@@ -128,7 +128,7 @@
                                 </div>
                                 <div class="col-md mb-4">
                                     <div class="card" data-toggle="modal" data-target="#exampleModal">
-                                    <a href="http://localhost:8080/img/sertifikat_python.c7e4c64a.jpg" data-toggle="lightbox">
+                                    <a href="https://thinkerdust.github.io/ayurkhmdn/img/sertifikat_python.c7e4c64a.jpg" data-toggle="lightbox">
                                     <img src="../assets/sertifikat_python.jpg" class="card-img-top" alt="Sertifikat">
                                     </a>
                                     <div class="card-body">
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="col-md mb-4">
                                     <div class="card" data-toggle="modal" data-target="#exampleModal">
-                                    <a href="http://localhost:8080/img/sertifikat_ml.c7eeef9f.jpg" data-toggle="lightbox">
+                                    <a href="https://thinkerdust.github.io/ayurkhmdn/img/sertifikat_ml.c7eeef9f.jpg" data-toggle="lightbox">
                                     <img src="../assets/sertifikat_ml.jpg" class="card-img-top" alt="Sertifikat">
                                     </a> 
                                     <div class="card-body">
@@ -344,21 +344,5 @@
                 </div>
             </div>
         </div>
-       
-        <!-- Modal -->
-        <!-- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                
-                    <div class="modal-body">
-                    <img src="../assets/sertifikat_web.jpg" alt="Sertifikat">
-                    <img src="../assets/sertifikat_fo.jpg" alt="Sertifikat">
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </template>
