@@ -29,7 +29,7 @@
                                             <ul>
                                                 <li><i class="fa fa-angle-right"></i> <strong>Degree:</strong> High School</li>
                                                 <li><i class="fa fa-angle-right"></i> <strong>Github:</strong> <a target="_blank" href="https://github.com/thinkerdust">My Github Account</a></li>
-                                                <li><i class="fa fa-angle-right"></i> <strong>Linkedin:</strong> <a target="_blank" href="https://www.linkedin.com/in/ayu-rakhmadani-257887179/">My Linkedin Account</a></li>
+                                                <li><i class="fa fa-angle-right"></i> <strong>Linkedin:</strong> <a target="_blank" href="https://www.linkedin.com/in/ayurkhmdn/">My Linkedin Account</a></li>
                                                 <li><i class="fa fa-angle-right"></i> <strong>Freelance:</strong> Available</li>
                                             </ul>
                                         </div>
